@@ -1,2 +1,2 @@
 # basic-control
-It is a basic control for Java.
+It is a basic control.
